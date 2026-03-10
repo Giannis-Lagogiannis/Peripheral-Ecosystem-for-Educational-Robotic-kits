@@ -1,8 +1,8 @@
-# Peripheral Ecosystem for Educational Robotic kits
+# Peripheral Ecosystem for Educational Robotic Kits
 
-Welcome to the accessory repository for the **Odysseus (Ody)** educational robotics platform. 
+Welcome to the accessory repository for the Peripheral Ecosystem for Educational Robotic kits.
 
-This repository contains modular, 3D-printable enclosures and mechanical parts designed specifically to house external sensors and actuators used in the Odysseus ecosystem. These housings ensure that electronic components are protected and can be safely handled by students in classroom environments.
+This repository contains modular, 3D-printable enclosures and mechanical parts designed specifically to house external sensors and actuators. These components are engineered to be structurally compatible with standard interlocking building bricks that utilize a **4.8 mm diameter hole system**. These housings ensure that electronic components are protected and can be safely handled by students in classroom environments.
 
 ## Included Files (STL)
 
@@ -25,8 +25,8 @@ Below is the list of the 3D models available in this repository:
 ## File Format Note
 These parts were designed using the free web version of SketchUp. Due to the export limitations of the free tier, only the final **.stl** files are available in this repository. They are properly scaled and ready to be sliced and 3D-printed without any further modification.
 
-## Compatibility
-All parts are designed to be mechanically compatible with the primary **Odysseus programmable component**. For the core hardware files (custom PCB shield, main chassis, and programming tools), please visit the main Odysseus project repository: 
+## What about a programmable component?
+These enclosures can be used with any programmable component or chassis that shares this 4.8 mm grid compatibility. A completely open-source suggestion that pairs perfectly with these peripherals is **Odysseus**:
 https://github.com/Giorgiolag/Odysseus-A-new-educational-robotic-kit
 
 ## License
